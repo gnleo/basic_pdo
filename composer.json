@@ -1,0 +1,15 @@
+{
+    "name": "gnleo/basic_pdo",
+    "description": "",
+    "homepage": "https://github.com/gnleo/basic_pdo",
+    "authors": [
+        {
+            "name": "Leonardo Nunes Goncalves",
+            "role": "Developer"
+        }
+    ],
+    "type": "app",
+    "require": {
+        "php": ">=7.0"
+    }
+}
