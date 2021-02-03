@@ -1,8 +1,8 @@
 {
-    "name": "gnleo/basic_PDO",
+    "name": "labex/basicpdo",
     "description": "Teste de conexão diretório privado -> composer",
     "license": "MIT",
-    "homepage": "git@github.com:gnleo/basic_PDO",
+    "homepage": "git@github.com:gnleo/basic_pdo",
     "authors": [
         {
             "name": "Leonardo Nunes Goncalves",
@@ -12,6 +12,6 @@
     ],
     "type": "plugin",
     "require": {
-        
+        "php": "^7.3"
     }
 }

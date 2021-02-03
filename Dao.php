@@ -1,6 +1,6 @@
 <?php
 
-namespace Basic;
+namespace Labex\BasicPdo;
 
 /**
  * author: @gnleo
