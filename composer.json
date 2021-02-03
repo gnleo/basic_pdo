@@ -1,15 +1,17 @@
 {
-    "name": "gnleo/basic_pdo",
-    "description": "",
-    "homepage": "https://github.com/gnleo/basic_pdo",
+    "name": "gnleo/basic_PDO",
+    "description": "Teste de conexão diretório privado -> composer",
+    "license": "MIT",
+    "homepage": "git@github.com:gnleo/basic_PDO",
     "authors": [
         {
             "name": "Leonardo Nunes Goncalves",
+            "email": "jamill_gnleo@yahoo.com",
             "role": "Developer"
         }
     ],
-    "type": "app",
+    "type": "plugin",
     "require": {
-        "php": ">=7.0"
+        
     }
 }
