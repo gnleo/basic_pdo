@@ -2,7 +2,6 @@
     "name": "labex/basicpdo",
     "description": "Teste de conexão diretório privado -> composer",
     "license": "MIT",
-    "homepage": "git@github.com:gnleo/basic_pdo",
     "authors": [
         {
             "name": "Leonardo Nunes Goncalves",
@@ -15,6 +14,8 @@
         "php": "^7.3"
     },
     "autoload": {
-        "Labex\\BasicPdo": "src"
+        "psr-4": {
+            "Labex\\BasicPdo\\": "src"
+        }
     }
 }
