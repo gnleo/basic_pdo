@@ -1,6 +1,6 @@
 <?php
 
-namespace Labex\BasicPdo;
+namespace BasicPdo;
 
 interface Functions {
 

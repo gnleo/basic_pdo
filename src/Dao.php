@@ -1,10 +1,16 @@
 <?php
 
-namespace Labex\BasicPdo;
-
 /**
  * author: @gnleo
  */
+
+namespace BasicPdo;
+
+use BasicPdo\Conn;
+use BasicPdo\Create;
+use BasicPdo\Read;
+use BasicPdo\Update;
+use BasicPdo\Delete;
 
 class Dao {
 

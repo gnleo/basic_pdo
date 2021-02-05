@@ -1,6 +1,9 @@
 <?php
 
-namespace Labex\BasicPdo;
+namespace BasicPdo;
+
+use PDO;
+use PDOException;
 
 /**
  * <b>Create.class:</b>
