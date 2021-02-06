@@ -1,6 +1,6 @@
 <?php
 
-namespace BasicPdo;
+namespace Labex\BasicPdo;
 
 use PDO;
 use PDOException;

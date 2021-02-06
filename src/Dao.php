@@ -4,13 +4,13 @@
  * author: @gnleo
  */
 
-namespace BasicPdo;
+namespace Labex\BasicPdo;
 
-use BasicPdo\Conn;
-use BasicPdo\Create;
-use BasicPdo\Read;
-use BasicPdo\Update;
-use BasicPdo\Delete;
+use Labex\BasicPdo\Conn;
+use Labex\BasicPdo\Create;
+use Labex\BasicPdo\Read;
+use Labex\BasicPdo\Update;
+use Labex\BasicPdo\Delete;
 
 class Dao {
 
